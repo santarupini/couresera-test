@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    background-color: aqua;
+    padding: 50px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-spacing: 15px 50px;
+}
+
+.box1 {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    background-color: aqua;
+    padding: 50px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-spacing: 15px 50px;
+}
+
+.box2 {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    background-color: aqua;
+    padding: 50px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-spacing: 15px;
+}
+
+#container {
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    position: relative;
+}
+
+#label {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    height: 20px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid red;
+    text-align: center;
+}
+
+.h1 {
+    font-style: bold;
+    font-size: medium;
+}
+
+#container1 {
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    position: relative;
+}
+
+#label1 {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    height: 20px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid red;
+    text-align: center;
+}
+
+#container2 {
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    position: relative;
+}
+
+#label2 {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    height: 20px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid red;
+    text-align: center;
+}
